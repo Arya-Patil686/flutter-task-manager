@@ -1,0 +1,7 @@
+# Tell GitHub's language analyzer to ignore platform-specific boilerplate
+android/* linguist-vendored
+ios/* linguist-vendored
+linux/* linguist-vendored
+macos/* linguist-vendored
+windows/* linguist-vendored
+web/* linguist-vendored
